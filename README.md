@@ -9,8 +9,8 @@
 
 1. A barchart of movies with maximum rate with duration and Movie Name <br>
 2.Star actor actress with Maximum rating (above 8)(depends on release date)(1997-2020)<br>
-3. Time Series Graph of Star actor actress with Maximum rating (depends on release date)<br>
-4. Circle graph of  Genre vs Rate (size of circle depends on the count of released movie per year)<br>
+3.Time Series Graph of Star actor actress with Maximum rating (depends on release date)<br>
+4.Circle graph of  Genre vs Rate (size of circle depends on the count of released movie per year)<br>
 5.Gross and Rate according to Name and Genre<br>
 
 ## Build From Sources and Run the Selenium Scraper
