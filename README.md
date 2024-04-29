@@ -5,9 +5,9 @@
 
 ![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau/assets/157609050/6f7c71ea-3058-4e32-b86d-d50e013c7106)
 
-## roblem Statement:
+## Problem Statement:
 
-1. A barchart of movies with maximum rate with duration and Movie Name <br>
+1.A barchart of movies with maximum rate with duration and Movie Name <br>
 2.Star actor actress with Maximum rating (above 8)(depends on release date)(1997-2020)<br>
 3.Time Series Graph of Star actor actress with Maximum rating (depends on release date)<br>
 4.Circle graph of  Genre vs Rate (size of circle depends on the count of released movie per year)<br>
