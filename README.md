@@ -16,7 +16,7 @@ Scraping Website--[website](https://www.imdb.com/list/ls000634294/?sort=list_ord
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
-git clone [https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau.git]
+git clone [https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau-main-.git]
 ```
 2. Intialize and activate virtual environment
 ```bash
