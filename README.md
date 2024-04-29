@@ -3,7 +3,8 @@
 ## Tableau Dashboard view ---[Here](https://public.tableau.com/app/profile/md.kawser.islam/viz/BestMovieDetails/Dashboard1?publish=yes)<br/>
 ## Scraping Website--[website](https://www.imdb.com/list/ls000634294/?sort=list_order,asc&st_dt=&mode=detail&page=1)<br/>
 
-![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau/assets/157609050/6f7c71ea-3058-4e32-b86d-d50e013c7106)
+![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau-main-/assets/157609050/bc53b600-b298-43a0-9eba-ae77423c5ea5)
+
 
 ## Problem Statement:
 
