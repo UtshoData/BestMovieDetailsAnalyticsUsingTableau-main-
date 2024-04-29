@@ -1,11 +1,11 @@
 # BestMovieDetailsAnalyticsUsingTableau-main-
 
-##Tableau Dashboard view ---[Here](https://public.tableau.com/app/profile/md.kawser.islam/viz/BestMovieDetails/Dashboard1?publish=yes)<br/>
-##Scraping Website--[website](https://www.imdb.com/list/ls000634294/?sort=list_order,asc&st_dt=&mode=detail&page=1)<br/>
+## Tableau Dashboard view ---[Here](https://public.tableau.com/app/profile/md.kawser.islam/viz/BestMovieDetails/Dashboard1?publish=yes)<br/>
+## Scraping Website--[website](https://www.imdb.com/list/ls000634294/?sort=list_order,asc&st_dt=&mode=detail&page=1)<br/>
 
 ![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau/assets/157609050/6f7c71ea-3058-4e32-b86d-d50e013c7106)
 
-##Problem Statement:
+## roblem Statement:
 
 1. A barchart of movies with maximum rate with duration and Movie Name <br>
 2.Star actor actress with Maximum rating (above 8)(depends on release date)(1997-2020)<br>
