@@ -19,18 +19,25 @@ No_of_votes — Total number of votes<br/>
 Gross — Money earned by that movie<br/>
 ## Problem Statement:
 
-1.A barchart of movies with maximum rate with duration and Movie Name <br>
-2.Star actor actress with Maximum rating (above 8)(depends on release date)(1997-2020)<br>
-3.Time Series Graph of Star actor actress with Maximum rating (depends on release date)<br>
+1.What are the top 10 movies based on the number of votes on IMDb?<br>
+2.How many movies were released in each year according to IMDb’s database<br/>
+3.Top 10 Genre count
 4.Circle graph of  Genre vs Rate (size of circle depends on the count of released movie per year)<br>
 5.Gross and Rate according to Name and Genre<br>
+6.How many movies have each certificate (e.g., G, PG, PG-13, R, etc.) on IMDb<br/>
+7.Which are the top 10 genres based on Metascore, and what are their average Metascore ratings<br/>
 
 ## Tableau Dashboard view ---[Here](https://public.tableau.com/app/profile/md.kawser.islam/viz/BestMovieDetails/Dashboard1?publish=yes)<br/>
 
+![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau-main-/assets/157609050/19759045-1574-45db-9c55-d3bd221ac928)
 
-![image](https://github.com/UtshoData/BestMovieDetailsAnalyticsUsingTableau-main-/assets/157609050/bc53b600-b298-43a0-9eba-ae77423c5ea5)
 ## Important Findings
-
+1.Analyzing movies with the highest number of votes can provide an understanding of which films have garnered the most attention and engagement from the IMDb user community.Shawshank Redemption is the most top rated (9.3) compared to others.<br/>
+2. Examining the distribution of movie certificates can offer insights into the audience demographics and preferences. For example, a higher number of movies with a " R " certificate may indicate a focus on aa dult audience.Most rated movies are mostly under R certification and then  PG-13 certificate.<br/>
+3.Observing the distribution of movies over the years can reveal trends in the film industry. A spike in a particular year might be associated with a significant cultural or technological shift after 1998.<br/>
+4.Analyzing the total gross for movies each year can highlight the financial success of the film industry over time. Avarter in the gross may coincide with major blockbuster releases or economic factors and the gross was $720M  and in The Dark Night was in the second position.<br/>
+5.Audiances love the Action, Adventure and Science Fiction genre of movies. Cz the maximum rate was 8.80 and also more 30 movies is being produced in this sector.<br/>
+6.Comparing Metascore ratings with for top 10 genres can offer a perspective on how critical reviews align with audience opinions. Consistency or divergence between the two metrics may indicate interesting dynamics in genre preferences.
 
 ## Build From Sources and Run the Selenium Scraper
 1. Clone the repo
