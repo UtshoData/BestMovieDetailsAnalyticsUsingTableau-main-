@@ -11,11 +11,9 @@ Certificate — Certificate earned by that movie<br/>
 Runtime — Total runtime of the movie<br/>
 Genre — Genre of the movie<br/>
 IMDb_Rating — Rating of the movie at IMDB site<br/>
-Overview — mini story/ summary<br/>
 Meta_score — Score earned by the movie<br/>
 Director — Name of the Director<br/>
 Star1,Star2,Star3,Star4 — Names of the cast<br/>
-No_of_votes — Total number of votes<br/>
 Gross — Money earned by that movie<br/>
 ## Problem Statement:
 
