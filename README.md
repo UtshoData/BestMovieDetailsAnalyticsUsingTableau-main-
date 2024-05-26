@@ -1,7 +1,7 @@
 # BestMovieDetailsAnalyticsUsingTableau-main-
 ## Introduction
 IMDb stands for the Internet Movie Database. It is an online database of information related to films, television programs, home videos, video games, and streaming content.
-I have scraped more than 700 data from 7 pages of this [website](https://www.imdb.com/list/ls000634294/?sort=list_order,asc&st_dt=&mode=detail&page=1) to find somw interesting findings.
+I have scraped more than 700 data from 7 pages of this [Website](https://www.imdb.com/list/ls000634294/?sort=list_order,asc&st_dt=&mode=detail&page=1) to find some interesting findings.
 ## Dataset:
 The dataset used for this analysis is the IMDB Dataset of top 700 movies .It contains information regarding top 700 movies .
 Contents of the dataset are:<br/>
